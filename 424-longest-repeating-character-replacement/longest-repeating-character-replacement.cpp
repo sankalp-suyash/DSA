@@ -1,5 +1,10 @@
 class Solution {
 public:
+
+    // Optimal approach
+    // this takes O(n) TC ans O(26) SC.
+    // Prev soln takes almost O(2n) TC.
+
     int characterReplacement(string s, int k) {
         int n = s.length();
         int l = 0;
@@ -12,12 +17,9 @@ public:
             nums[s[r] - 'A']++;
             maxFreq = max(maxFreq, nums[s[r] - 'A']);
 
-            while ((r - l + 1) - maxFreq > k) {
+            if ((r - l + 1) - maxFreq > k) {
                 nums[s[l] - 'A']--;
                 maxFreq = 0;
-                for (int i = 0; i < 26; i++) {
-                    maxFreq = max(maxFreq, nums[i]);
-                }
                 l = l + 1;
             }
             if ((r - l + 1) - maxFreq <= k) {
