@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/sankalp-suyash/DSA/tree/master/0867-new-21-game) |
+| [1448-maximum-69-number](https://github.com/sankalp-suyash/DSA/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0867-new-21-game](https://github.com/sankalp-suyash/DSA/tree/master/0867-new-21-game) |
+## Greedy
+|  |
+| ------- |
+| [1448-maximum-69-number](https://github.com/sankalp-suyash/DSA/tree/master/1448-maximum-69-number) |
 <!---LeetCode Topics End-->
