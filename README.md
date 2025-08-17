@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0282-expression-add-operators](https://github.com/sankalp-suyash/DSA/tree/master/0282-expression-add-operators) |
 | [0867-new-21-game](https://github.com/sankalp-suyash/DSA/tree/master/0867-new-21-game) |
 | [1448-maximum-69-number](https://github.com/sankalp-suyash/DSA/tree/master/1448-maximum-69-number) |
 ## Dynamic Programming
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sankalp-suyash/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
+| [0282-expression-add-operators](https://github.com/sankalp-suyash/DSA/tree/master/0282-expression-add-operators) |
 ## Trie
 |  |
 | ------- |
@@ -51,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/sankalp-suyash/DSA/tree/master/0079-word-search) |
+| [0282-expression-add-operators](https://github.com/sankalp-suyash/DSA/tree/master/0282-expression-add-operators) |
 ## Depth-First Search
 |  |
 | ------- |
