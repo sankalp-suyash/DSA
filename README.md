@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
+| [0146-lru-cache](https://github.com/sankalp-suyash/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sankalp-suyash/DSA/tree/master/0460-lfu-cache) |
 ## String
 |  |
@@ -61,13 +62,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sankalp-suyash/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sankalp-suyash/DSA/tree/master/0460-lfu-cache) |
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sankalp-suyash/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sankalp-suyash/DSA/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sankalp-suyash/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sankalp-suyash/DSA/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
