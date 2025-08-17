@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 | [0867-new-21-game](https://github.com/sankalp-suyash/DSA/tree/master/0867-new-21-game) |
 ## Sliding Window
 |  |
@@ -22,4 +23,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1448-maximum-69-number](https://github.com/sankalp-suyash/DSA/tree/master/1448-maximum-69-number) |
+## Array
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
+## Hash Table
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
