@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sankalp-suyash/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
+| [1646-kth-missing-positive-number](https://github.com/sankalp-suyash/DSA/tree/master/1646-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/sankalp-suyash/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sankalp-suyash/DSA/tree/master/0460-lfu-cache) |
+## Binary Search
+|  |
+| ------- |
+| [1646-kth-missing-positive-number](https://github.com/sankalp-suyash/DSA/tree/master/1646-kth-missing-positive-number) |
 <!---LeetCode Topics End-->
