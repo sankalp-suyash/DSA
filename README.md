@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/sankalp-suyash/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sankalp-suyash/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/sankalp-suyash/DSA/tree/master/2737-row-with-maximum-ones) |
+| [3221-find-the-peaks](https://github.com/sankalp-suyash/DSA/tree/master/3221-find-the-peaks) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sankalp-suyash/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sankalp-suyash/DSA/tree/master/0240-search-a-2d-matrix-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3221-find-the-peaks](https://github.com/sankalp-suyash/DSA/tree/master/3221-find-the-peaks) |
 <!---LeetCode Topics End-->
