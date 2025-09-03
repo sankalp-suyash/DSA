@@ -123,13 +123,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
