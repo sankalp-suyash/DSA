@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/sankalp-suyash/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0079-word-search](https://github.com/sankalp-suyash/DSA/tree/master/0079-word-search) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sankalp-suyash/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sankalp-suyash/DSA/tree/master/0410-split-array-largest-sum) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sankalp-suyash/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sankalp-suyash/DSA/tree/master/0460-lfu-cache) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sankalp-suyash/DSA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sankalp-suyash/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 ## Enumeration
 |  |
@@ -130,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sankalp-suyash/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -142,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sankalp-suyash/DSA/tree/master/0222-count-complete-tree-nodes) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
