@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sankalp-suyash/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/sankalp-suyash/DSA/tree/master/0282-expression-add-operators) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Trie
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/sankalp-suyash/DSA/tree/master/0079-word-search) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0144-binary-tree-preorder-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sankalp-suyash/DSA/tree/master/0146-lru-cache) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0460-lfu-cache](https://github.com/sankalp-suyash/DSA/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sankalp-suyash/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -149,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/sankalp-suyash/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2384-root-equals-sum-of-children](https://github.com/sankalp-suyash/DSA/tree/master/2384-root-equals-sum-of-children) |
@@ -157,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0102-binary-tree-level-order-traversal) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
