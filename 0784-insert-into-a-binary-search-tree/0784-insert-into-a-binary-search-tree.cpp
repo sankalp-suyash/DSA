@@ -16,12 +16,24 @@ public:
         if (!root) {
             return new TreeNode(val);
         }
-        if (val < root->val) {
-            root->left = insertIntoBST(root->left, val);
-        } else {
-            root->right = insertIntoBST(root->right, val);
+        TreeNode* curr = root;
+        while (true) {
+            if (curr->val <= val) {
+                if (curr->right != NULL) {
+                    curr = curr->right;
+                } else {
+                    curr->right = new TreeNode(val);
+                    break;
+                }
+            } else {
+                if (curr->left != NULL) {
+                    curr = curr->left;
+                } else {
+                    curr->left = new TreeNode(val);
+                    break;
+                }
+            }
         }
-
         return root;
     }
 };
