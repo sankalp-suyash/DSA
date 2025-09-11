@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 | [0240-search-a-2d-matrix-ii](https://github.com/sankalp-suyash/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/sankalp-suyash/DSA/tree/master/0410-split-array-largest-sum) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1646-kth-missing-positive-number](https://github.com/sankalp-suyash/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sankalp-suyash/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/sankalp-suyash/DSA/tree/master/2737-row-with-maximum-ones) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/sankalp-suyash/DSA/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/sankalp-suyash/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Tree
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2384-root-equals-sum-of-children](https://github.com/sankalp-suyash/DSA/tree/master/2384-root-equals-sum-of-children) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Breadth-First Search
@@ -192,8 +196,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sankalp-suyash/DSA/tree/master/0222-count-complete-tree-nodes) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
