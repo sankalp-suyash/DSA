@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sankalp-suyash/DSA/tree/master/0146-lru-cache) |
 | [0460-lfu-cache](https://github.com/sankalp-suyash/DSA/tree/master/0460-lfu-cache) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## String
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -189,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0102-binary-tree-level-order-traversal) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 ## Binary Search Tree
@@ -199,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sankalp-suyash/DSA/tree/master/0784-insert-into-a-binary-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -214,4 +220,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/sankalp-suyash/DSA/tree/master/0173-binary-search-tree-iterator) |
+## Two Pointers
+|  |
+| ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 <!---LeetCode Topics End-->
