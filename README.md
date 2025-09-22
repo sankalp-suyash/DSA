@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/sankalp-suyash/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/sankalp-suyash/DSA/tree/master/2737-row-with-maximum-ones) |
 | [3221-find-the-peaks](https://github.com/sankalp-suyash/DSA/tree/master/3221-find-the-peaks) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Hash Table
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -228,4 +230,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Counting
+|  |
+| ------- |
+| [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 <!---LeetCode Topics End-->
