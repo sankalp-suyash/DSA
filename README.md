@@ -234,4 +234,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/sankalp-suyash/DSA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
