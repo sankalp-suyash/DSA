@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sankalp-suyash/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/sankalp-suyash/DSA/tree/master/0027-remove-element) |
 | [0079-word-search](https://github.com/sankalp-suyash/DSA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/sankalp-suyash/DSA/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sankalp-suyash/DSA/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/sankalp-suyash/DSA/tree/master/0088-merge-sorted-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Counting
