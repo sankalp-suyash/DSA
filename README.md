@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sankalp-suyash/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [0403-frog-jump](https://github.com/sankalp-suyash/DSA/tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/sankalp-suyash/DSA/tree/master/0410-split-array-largest-sum) |
+| [0485-max-consecutive-ones](https://github.com/sankalp-suyash/DSA/tree/master/0485-max-consecutive-ones) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1580-shuffle-the-array](https://github.com/sankalp-suyash/DSA/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/sankalp-suyash/DSA/tree/master/1646-kth-missing-positive-number) |
