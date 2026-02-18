@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0282-expression-add-operators](https://github.com/sankalp-suyash/DSA/tree/master/0282-expression-add-operators) |
+| [0371-sum-of-two-integers](https://github.com/sankalp-suyash/DSA/tree/master/0371-sum-of-two-integers) |
 | [0867-new-21-game](https://github.com/sankalp-suyash/DSA/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/sankalp-suyash/DSA/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/sankalp-suyash/DSA/tree/master/1448-maximum-69-number) |
@@ -252,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/sankalp-suyash/DSA/tree/master/0222-count-complete-tree-nodes) |
+| [0371-sum-of-two-integers](https://github.com/sankalp-suyash/DSA/tree/master/0371-sum-of-two-integers) |
 ## Monotonic Stack
 |  |
 | ------- |
