@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 | [0282-expression-add-operators](https://github.com/sankalp-suyash/DSA/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [1021-remove-outermost-parentheses](https://github.com/sankalp-suyash/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sankalp-suyash/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 ## Trie
 |  |
@@ -181,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/sankalp-suyash/DSA/tree/master/0173-binary-search-tree-iterator) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/0775-n-ary-tree-preorder-traversal) |
+| [1021-remove-outermost-parentheses](https://github.com/sankalp-suyash/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Tree
 |  |
