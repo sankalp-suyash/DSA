@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-new-21-game](https://github.com/sankalp-suyash/DSA/tree/master/0867-new-21-game) |
 | [1013-fibonacci-number](https://github.com/sankalp-suyash/DSA/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/sankalp-suyash/DSA/tree/master/1448-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/sankalp-suyash/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sankalp-suyash/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Dynamic Programming
 |  |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/sankalp-suyash/DSA/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/sankalp-suyash/DSA/tree/master/0410-split-array-largest-sum) |
 | [1448-maximum-69-number](https://github.com/sankalp-suyash/DSA/tree/master/1448-maximum-69-number) |
+| [1903-largest-odd-number-in-string](https://github.com/sankalp-suyash/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Array
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/sankalp-suyash/DSA/tree/master/1021-remove-outermost-parentheses) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sankalp-suyash/DSA/tree/master/1796-second-largest-digit-in-a-string) |
+| [1903-largest-odd-number-in-string](https://github.com/sankalp-suyash/DSA/tree/master/1903-largest-odd-number-in-string) |
 ## Trie
 |  |
 | ------- |
