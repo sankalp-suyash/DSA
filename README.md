@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/sankalp-suyash/DSA/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/sankalp-suyash/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sankalp-suyash/DSA/tree/master/0242-valid-anagram) |
 | [0460-lfu-cache](https://github.com/sankalp-suyash/DSA/tree/master/0460-lfu-cache) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/sankalp-suyash/DSA/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/sankalp-suyash/DSA/tree/master/0079-word-search) |
 | [0139-word-break](https://github.com/sankalp-suyash/DSA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/sankalp-suyash/DSA/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/sankalp-suyash/DSA/tree/master/0242-valid-anagram) |
 | [0282-expression-add-operators](https://github.com/sankalp-suyash/DSA/tree/master/0282-expression-add-operators) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1021-remove-outermost-parentheses](https://github.com/sankalp-suyash/DSA/tree/master/1021-remove-outermost-parentheses) |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/sankalp-suyash/DSA/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/sankalp-suyash/DSA/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/sankalp-suyash/DSA/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/sankalp-suyash/DSA/tree/master/0242-valid-anagram) |
 ## Simulation
 |  |
 | ------- |
