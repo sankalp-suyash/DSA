@@ -13,33 +13,28 @@
 class Solution {
 public:
     int countNodes(TreeNode* root) {
-        if (root == NULL)
+        if (root == NULL) {
             return 0;
-
-        int lh = findHeightLeft(root);
-        int rh = findHeightRight(root);
-
-        if (lh == rh)
-            return (1 << lh) - 1;
-
-        return 1 + countNodes(root->left) + countNodes(root->right);
-    }
-
-    int findHeightLeft(TreeNode* node) {
-        int hght = 0;
-        while (node) {
-            hght++;
-            node = node->left;
         }
-        return hght;
-    }
+        int count = 0;
 
-    int findHeightRight(TreeNode* node) {
-        int hght = 0;
-        while (node) {
-            hght++;
-            node = node->right;
+        queue<TreeNode*> q;
+        q.push(root);
+
+        while (!q.empty()) {
+            TreeNode* node = q.front();
+            q.pop();
+            count++;
+
+            if (node->left) {
+                q.push(node->left);
+            }
+
+            if (node->right) {
+                q.push(node->right);
+            }
         }
-        return hght;
+
+        return count;
     }
 };
