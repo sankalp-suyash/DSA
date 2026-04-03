@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/sankalp-suyash/DSA/tree/master/1013-fibonacci-number) |
 | [1448-maximum-69-number](https://github.com/sankalp-suyash/DSA/tree/master/1448-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/sankalp-suyash/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2965-find-missing-and-repeated-values](https://github.com/sankalp-suyash/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sankalp-suyash/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Dynamic Programming
 |  |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2047-find-a-peak-element-ii](https://github.com/sankalp-suyash/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/sankalp-suyash/DSA/tree/master/2058-concatenation-of-array) |
 | [2737-row-with-maximum-ones](https://github.com/sankalp-suyash/DSA/tree/master/2737-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/sankalp-suyash/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3221-find-the-peaks](https://github.com/sankalp-suyash/DSA/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sankalp-suyash/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sankalp-suyash/DSA/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sankalp-suyash/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2965-find-missing-and-repeated-values](https://github.com/sankalp-suyash/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
@@ -149,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/sankalp-suyash/DSA/tree/master/0240-search-a-2d-matrix-ii) |
 | [2047-find-a-peak-element-ii](https://github.com/sankalp-suyash/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2737-row-with-maximum-ones](https://github.com/sankalp-suyash/DSA/tree/master/2737-row-with-maximum-ones) |
+| [2965-find-missing-and-repeated-values](https://github.com/sankalp-suyash/DSA/tree/master/2965-find-missing-and-repeated-values) |
 ## Linked List
 |  |
 | ------- |
