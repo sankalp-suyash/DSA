@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1646-kth-missing-positive-number](https://github.com/sankalp-suyash/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sankalp-suyash/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/sankalp-suyash/DSA/tree/master/2058-concatenation-of-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sankalp-suyash/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2737-row-with-maximum-ones](https://github.com/sankalp-suyash/DSA/tree/master/2737-row-with-maximum-ones) |
 | [2965-find-missing-and-repeated-values](https://github.com/sankalp-suyash/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3221-find-the-peaks](https://github.com/sankalp-suyash/DSA/tree/master/3221-find-the-peaks) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1071-greatest-common-divisor-of-strings](https://github.com/sankalp-suyash/DSA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1796-second-largest-digit-in-a-string](https://github.com/sankalp-suyash/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sankalp-suyash/DSA/tree/master/1903-largest-odd-number-in-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sankalp-suyash/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Trie
 |  |
 | ------- |
