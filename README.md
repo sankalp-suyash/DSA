@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sankalp-suyash/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3221-find-the-peaks](https://github.com/sankalp-suyash/DSA/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3488-closest-equal-element-queries](https://github.com/sankalp-suyash/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sankalp-suyash/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Hash Table
 |  |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/sankalp-suyash/DSA/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2965-find-missing-and-repeated-values](https://github.com/sankalp-suyash/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3488-closest-equal-element-queries](https://github.com/sankalp-suyash/DSA/tree/master/3488-closest-equal-element-queries) |
 ## String
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/sankalp-suyash/DSA/tree/master/0410-split-array-largest-sum) |
 | [1646-kth-missing-positive-number](https://github.com/sankalp-suyash/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2047-find-a-peak-element-ii](https://github.com/sankalp-suyash/DSA/tree/master/2047-find-a-peak-element-ii) |
+| [3488-closest-equal-element-queries](https://github.com/sankalp-suyash/DSA/tree/master/3488-closest-equal-element-queries) |
 ## Prefix Sum
 |  |
 | ------- |
