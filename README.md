@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sankalp-suyash/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/sankalp-suyash/DSA/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/sankalp-suyash/DSA/tree/master/1646-kth-missing-positive-number) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/sankalp-suyash/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2047-find-a-peak-element-ii](https://github.com/sankalp-suyash/DSA/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/sankalp-suyash/DSA/tree/master/2058-concatenation-of-array) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sankalp-suyash/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
