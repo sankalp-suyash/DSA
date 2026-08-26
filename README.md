@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sankalp-suyash/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0867-new-21-game](https://github.com/sankalp-suyash/DSA/tree/master/0867-new-21-game) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sankalp-suyash/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sankalp-suyash/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Probability and Statistics
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/sankalp-suyash/DSA/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/sankalp-suyash/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sankalp-suyash/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sankalp-suyash/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sankalp-suyash/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
