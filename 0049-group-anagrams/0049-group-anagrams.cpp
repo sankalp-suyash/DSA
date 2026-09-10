@@ -1,39 +1,47 @@
 class Solution {
 public:
-    string generate(string& word) {
-        int arr[26] = {0};
+    bool isAnagram(const string& s, const string& t) {
+        if (s.length() != t.length())
+            return false;
 
-        for (char& ch : word) {
-            arr[ch - 'a']++;
+        int freq[26] = {0};
+
+        for (int i = 0; i < s.length(); i++) {
+            freq[s[i] - 'a']++;
+            freq[t[i] - 'a']--;
         }
 
-        string new_word = "";
-
-        for (int i = 0; i < 26; i++) {
-            int freq = arr[i];
-            if (freq > 0) {
-                new_word += string(freq, i + 'a');
-            }
+        for (int count : freq) {
+            if (count != 0)
+                return false;
         }
 
-        return new_word;
+        return true;
     }
 
     vector<vector<string>> groupAnagrams(vector<string>& strs) {
+        vector<vector<string>> result;
         int n = strs.size();
-        vector<vector<string>> ans;
-        unordered_map<string, vector<string>> mp;
+        vector<bool> visited(n, false);
 
         for (int i = 0; i < n; i++) {
-            string word = strs[i];
-            string new_word = generate(word);
-            mp[new_word].push_back(word);
+            if (visited[i])
+                continue;
+
+            vector<string> group;
+            group.push_back(strs[i]);
+            visited[i] = true;
+
+            for (int j = i + 1; j < n; j++) {
+                if (!visited[j] && isAnagram(strs[i], strs[j])) {
+                    group.push_back(strs[j]);
+                    visited[j] = true;
+                }
+            }
+
+            result.push_back(group);
         }
 
-        for (auto it : mp) {
-            ans.push_back(it.second);
-        }
-
-        return ans;
+        return result;
     }
 };
