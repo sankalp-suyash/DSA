@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2965-find-missing-and-repeated-values](https://github.com/sankalp-suyash/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3221-find-the-peaks](https://github.com/sankalp-suyash/DSA/tree/master/3221-find-the-peaks) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sankalp-suyash/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/sankalp-suyash/DSA/tree/master/3488-closest-equal-element-queries) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/sankalp-suyash/DSA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Hash Table
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/sankalp-suyash/DSA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/sankalp-suyash/DSA/tree/master/2965-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/sankalp-suyash/DSA/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sankalp-suyash/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 | [3488-closest-equal-element-queries](https://github.com/sankalp-suyash/DSA/tree/master/3488-closest-equal-element-queries) |
 ## String
 |  |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3221-find-the-peaks](https://github.com/sankalp-suyash/DSA/tree/master/3221-find-the-peaks) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sankalp-suyash/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Stack
 |  |
 | ------- |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/sankalp-suyash/DSA/tree/master/1013-fibonacci-number) |
+| [3483-unique-3-digit-even-numbers](https://github.com/sankalp-suyash/DSA/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
