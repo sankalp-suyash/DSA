@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1903-largest-odd-number-in-string](https://github.com/sankalp-suyash/DSA/tree/master/1903-largest-odd-number-in-string) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/sankalp-suyash/DSA/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/sankalp-suyash/DSA/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/sankalp-suyash/DSA/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/sankalp-suyash/DSA/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Trie
 |  |
@@ -388,6 +389,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2058-concatenation-of-array](https://github.com/sankalp-suyash/DSA/tree/master/2058-concatenation-of-array) |
+| [3498-reverse-degree-of-a-string](https://github.com/sankalp-suyash/DSA/tree/master/3498-reverse-degree-of-a-string) |
 ## Brainteaser
 |  |
 | ------- |
