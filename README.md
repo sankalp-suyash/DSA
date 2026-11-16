@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/sankalp-suyash/DSA/tree/master/0485-max-consecutive-ones) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/sankalp-suyash/DSA/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/sankalp-suyash/DSA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1480-running-sum-of-1d-array](https://github.com/sankalp-suyash/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1580-shuffle-the-array](https://github.com/sankalp-suyash/DSA/tree/master/1580-shuffle-the-array) |
 | [1646-kth-missing-positive-number](https://github.com/sankalp-suyash/DSA/tree/master/1646-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/sankalp-suyash/DSA/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sankalp-suyash/DSA/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/sankalp-suyash/DSA/tree/master/0410-split-array-largest-sum) |
+| [1480-running-sum-of-1d-array](https://github.com/sankalp-suyash/DSA/tree/master/1480-running-sum-of-1d-array) |
 ## Divide and Conquer
 |  |
 | ------- |
